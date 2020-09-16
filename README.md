@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/68203580/93281684-3550e000-f792-11ea-8
 
 ## Link
 
-Deployed: https://niccimoyer.github.io/offlinebudgettracker/
+Deployed: https://github.com/NicciMoyer/OfflineBudgetTracker/
 
 ## Feedback?
 
