@@ -46,6 +46,6 @@ Contact NicciMoyer@gmail.com with questions or comments!
 
 ## Acknowledgments
 
-Special thanks to Dane Edwards and Andrew Layendecker
+Special thanks to Dane Edwards
 
 
